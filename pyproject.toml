@@ -20,7 +20,6 @@ keywords = [
     'EBNF', 'SXML', 'XML'
 ]
 dependencies = [
-    "pytest>=7.4.4",
     "regex>=2024.4.16",
 ]
 
